@@ -6,7 +6,7 @@ on:
       agent_name:
         description: 'kedutz'
         required: true
-        default: 'uangdroid'
+        default: 'kedutz'
       agent_description:
         description: 'kedutz'
         required: true
